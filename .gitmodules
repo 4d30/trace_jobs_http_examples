@@ -1,0 +1,6 @@
+[submodule "cafs"]
+	path = cafs
+	url = git@github.com:4d30/cafs.git
+[submodule "trace_jobs_index"]
+	path = trace_jobs_index
+	url = git@github.com:4d30/trace_jobs_index.git
