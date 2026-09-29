@@ -18,7 +18,7 @@ def generate_queries():
     integers = range(7)
     names = map(lambda x: f"{x:02d}.json", integers)
     names = map(os.path.join,
-                repeat('http-examples'),
+                repeat('trace_jobs_http_examples'),
                 repeat('queries'),
                 names)
     yield from names
