@@ -1,0 +1,10 @@
+{
+  "title": "04 Tech Salary Threshold",
+  "search": {
+    "title": ["engineer"],
+    "currency": ["usd"],
+    "salary_min": 120000
+  },
+  "view": {
+  }
+}

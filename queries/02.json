@@ -1,0 +1,9 @@
+{
+  "title": "02 Remote Lead Generation",
+  "search": {
+    "job_location_type": ["remote"]
+  },
+  "view": {
+    "sortby": "date_posted"
+  }
+}

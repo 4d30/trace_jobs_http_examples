@@ -1,0 +1,8 @@
+{
+  "title": "03 Daily Sync",
+  "search": {
+    "posted_after": "$YESTERDAY"
+  },
+  "view": {
+  }
+}

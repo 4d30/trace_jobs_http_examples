@@ -1,0 +1,8 @@
+{
+  "title": "10 Regional Midwest USA Search",
+  "search": {
+    "region": ["indiana", "ohio", "illinois", "michigan"],
+    "salary_min": 90000
+  },
+  "view": {}
+}

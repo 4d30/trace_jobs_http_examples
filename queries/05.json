@@ -1,0 +1,8 @@
+{
+  "title": "05 Cash-Flow Ranker",
+  "search": {
+  },
+  "view": {
+    "sortby": "salary_max"
+  }
+}

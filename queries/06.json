@@ -1,0 +1,9 @@
+{
+  "title": "06 Recent Postings in Major Tech Hubs",
+  "search": {
+    "city": ["san francisco", "new york", "austin", "seattle"]
+  },
+  "view": {
+    "sortby": "date_posted"
+  }
+}

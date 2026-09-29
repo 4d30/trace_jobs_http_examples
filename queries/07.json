@@ -1,0 +1,11 @@
+{
+  "title": "07 European Union Tech Roles",
+  "search": {
+    "title": ["software engineer", "devops"],
+    "country": ["de", "fr", "nl", "ie"],
+    "language": ["en"]
+  },
+  "view": {
+    "sortby": "date_posted"
+  }
+}
