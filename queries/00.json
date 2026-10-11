@@ -2,6 +2,6 @@
  "search": {
  },
  "view": {
-  "sortyby": "date_posted"
+  "sortby": "date_posted"
  }
 }
