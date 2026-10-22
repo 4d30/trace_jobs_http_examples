@@ -63,13 +63,8 @@ def make_nice_html(title, filename):
         linenos='inline',
         wrapcode=True,
         prestyles='font-size:16px;',
-        cssfile='foo.css'
     )
     highlighted_code = highlight(pretty_json, JsonLexer(), formatter)
-    # css = formatter.get_style_defs(".highlight")
-    # css_path = os.path.join(os.getenv('HTTP_ROOT'), 'style.css')
-    # with open(css_path, "w") as f:
-    #     f.write(css)
     return highlighted_code
 
 
